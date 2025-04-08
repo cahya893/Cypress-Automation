@@ -1,0 +1,10 @@
+{
+  "name": "Using fixtures to represent data",
+  "email": "cahya.pawoon1@gmail.com",
+  "email_register": "cahya.pawoon+cypress",
+  "password": "123456",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "nama_produk": "Produk Automation cypress",
+  "nama_kategori": "Kategori Automation cypress",
+  "nama_opsitambahan": "Opsi Tambahan Automation cypress"
+}
